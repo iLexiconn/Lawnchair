@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "lawnchair:fish_bowl"
+      }
+    ]
+  }
+}

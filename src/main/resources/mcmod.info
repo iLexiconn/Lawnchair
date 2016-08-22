@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "lawnchair",
+    "name": "Lawnchair",
+    "version": "${version}",
+    "authorList": [
+      "iLexiconn"
+    ],
+    "description": "Decoration mod",
+    "dependencies": [
+      "llibrary@[${llibrary_version},)"
+    ]
+  }
+]
